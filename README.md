@@ -13,7 +13,7 @@ Visit my Youtube channel:
 https://www.youtube.com/channel/UCj51CLgyTsILVHbGL6wvQeg
 
 
-## Part 1
+## Part 1 - Straight Road
 This part covers the following topics:
 - initializing a new Phaser game
 - creating the main game loop
