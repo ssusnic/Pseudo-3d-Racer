@@ -9,7 +9,7 @@ The game is programmed in Javascript using [Phaser 2 framework](http://phaser.io
 Visit official website:  
 https://www.askforgametask.com
 
-Visit my Youtube channel:
+Visit my Youtube channel:  
 https://www.youtube.com/channel/UCj51CLgyTsILVHbGL6wvQeg
 
 
@@ -19,7 +19,7 @@ This part covers the following topics:
 - creating the main game loop
 - implementing 3d projection
 - building a straight road
-- rendering the road.
+- rendering the road
 
 Watch the video (episode 1):  
 
@@ -37,7 +37,7 @@ Here are the instructions how to use the XAMPP web server to run this game (if y
 5. download the project from this repository
 6. copy all files directly in **C:\Xampp\htdocs\pseudo3d_racer**
 7. now you should have the following folder structure:  
-  - **C:\Xampp\htdocs\pseudo3d_racer**  
+  **C:\Xampp\htdocs\pseudo3d_racer**  
     - **\source**  
       - **\assets** 
       - **\libs**  
