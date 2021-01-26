@@ -22,6 +22,7 @@ This part covers the following topics:
 - rendering the road
 
 Watch the video (episode 1):  
+https://youtu.be/6td_zpQC1U4
 
 
 ## How to run the game
