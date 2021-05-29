@@ -25,6 +25,17 @@ Watch the video (episode 1):
 https://youtu.be/6td_zpQC1U4
 
 
+## Part 2 - Adding Player
+This part covers the following topics:
+- creating the Player class
+- updating the camera to follow the player
+- adding a clipping line to render only segments above it
+- making the road to correctly loops back
+
+Watch the video (episode 2):  
+https://youtu.be/ZV23PaCSyS8
+
+
 ## How to run the game
 
 Since the game is written in Javascript, it runs directly in a web browser.  
